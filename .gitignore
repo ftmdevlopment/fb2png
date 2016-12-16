@@ -1,6 +1,8 @@
 # object files
 
 *.o
+obj/*
+libs/*
 
 # programs
 
