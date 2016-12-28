@@ -1,6 +1,6 @@
 [submodule "jni/libpng"]
 	path = jni/libpng
-	url = git@github.com:ftmdevlopment/libpng.git
+	url = https://github.com/ftmdevlopment/libpng.git
 [submodule "jni/zlib"]
 	path = jni/zlib
-	url = git@github.com:ftmdevlopment/zlib.git
+	url = https://github.com/ftmdevlopment/zlib.git
